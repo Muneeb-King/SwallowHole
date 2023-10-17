@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HoleSwallow-Game/Scenes/Main Menu.unity
+    guid: cd0d4b0ad37cb514e9258acb5d60604f
+  - enabled: 1
+    path: Assets/HoleSwallow-Game/Scenes/Level-01.unity
+    guid: be42a4dd5f32bbf4e83da8c391204af4
+  - enabled: 1
+    path: Assets/HoleSwallow-Game/Scenes/Level-02.unity
+    guid: 38d93225e5ec6a8418261dc80c61656e
   m_configObjects: {}
