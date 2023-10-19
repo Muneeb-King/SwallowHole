@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Destroy
+  - Enemy
+  - Destroy1
+  - Destroy2
+  - MainGround
   layers:
   - Default
   - TransparentFX
